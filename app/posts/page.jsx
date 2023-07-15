@@ -1,9 +1,10 @@
 import React from 'react'
+import { ListOfPosts } from './[id]/ListOfPosts'
 
-const page = () => {
+export default async function PostPage ({ params }) {
   return (
-    <div>page</div>
+    <section>
+      <ListOfPosts />
+    </section>
   )
 }
-
-export default page
