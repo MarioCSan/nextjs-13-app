@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## objetivo
 
-Conocer y familizarizarme con el uso de NextJS
+Conocer y familiarizarse con el uso de NextJS y su estructura basada en rutas
 
 ## Getting Started
 
