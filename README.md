@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## objetivo
+## Objetivo
 
 Conocer y familiarizarse con el uso de NextJS y su estructura basada en rutas
 
